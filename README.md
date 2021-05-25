@@ -34,7 +34,7 @@ JDBC URL - jdbc:h2:mem:testdb<br />
 Username - sa<br />
 
 
-**API Details- **<br />
+**API Details-**<br />
 
 API Name - /<br />
 Method - GET <br />
