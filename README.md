@@ -2,7 +2,7 @@
 # tudipAssignment
 **Assignment for Tudip - (Please read complete file and then proceed with project import process)**<br />
 
-**Steps to Import - **<br />
+**Steps to Import -**<br />
 1. Use https://github.com/tschandel/recruitment-application.git for importing project<br />
 2. Import as general project<br />
 3. Once imported configure it and gradle nature.<br />
