@@ -2,6 +2,15 @@
 # tudipAssignment
 **Assignment for Tudip - **<br />
 
+Steps to Import - <br />
+1. Use https://github.com/tschandel/recruitment-application.git for importing project<br />
+2. Import as general project<br />
+3. Once imported configure it and gradle nature.<br />
+4. Open file src/main/java - com.tudip.recruitmentapplication - RecruitmentApplication.<br />
+5. Right click on 'RecruitmentApplication' class name and select 'Run As'->'Java Application'.<br />
+6. Application will launch in port number 8000. In case if there is any other application running on port number 8000, then go to src/main/resource -> 'application-properties' and change server.port according to availability of ports in your local machine. And repeat step 5. <br />
+
+
 Information -<br />
 Spring Boot Version - 2.4.6<br />
 Java - 1.8<br />
