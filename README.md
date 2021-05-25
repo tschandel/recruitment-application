@@ -2,7 +2,7 @@
 # tudipAssignment
 **Assignment for Tudip - (Please read complete file and then proceed with project import process)**<br />
 
-Steps to Import - <br />
+**Steps to Import - **<br />
 1. Use https://github.com/tschandel/recruitment-application.git for importing project<br />
 2. Import as general project<br />
 3. Once imported configure it and gradle nature.<br />
@@ -11,13 +11,13 @@ Steps to Import - <br />
 6. Application will launch in port number 8000. In case if there is any other application running on port number 8000, then go to src/main/resource -> 'application-properties' and change server.port according to availability of ports in your local machine. And repeat step 5. <br />
 
 
-Information -<br />
+**Information -**<br />
 Spring Boot Version - 2.4.6<br />
 Java - 1.8<br />
 Database - In memory (with Liquibase)<br />
 Port - 8000<br />
 
-Database - <br />
+**Database -** <br />
 CREATE TABLE IF NOT EXISTS `candidate` (<br />
     `id` INT NOT NULL PRIMARY KEY AUTO_INCREMENT,<br />
     `name` VARCHAR(500) NOT NULL,<br />
@@ -34,7 +34,7 @@ JDBC URL - jdbc:h2:mem:testdb<br />
 Username - sa<br />
 
 
-API Details- <br />
+**API Details- **<br />
 
 API Name - /<br />
 Method - GET <br />
@@ -56,4 +56,4 @@ O/P - [<br />
   "address":"Lucknow"}<br />
 ]<br />
 
-Note - In landing page user can select search and sorting operations and if search and sorting operations aren't selected then user will recieve data in the same order it's present inside database.
+**Note** - In landing page user can select search and sorting operations and if search and sorting operations aren't selected then user will recieve data in the same order it's present inside database.
