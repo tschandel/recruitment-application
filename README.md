@@ -1,6 +1,6 @@
 # recruitment-application
 # tudipAssignment
-**Assignment for Tudip - **<br />
+**Assignment for Tudip - (Please read complete file and then proceed with project import process)**<br />
 
 Steps to Import - <br />
 1. Use https://github.com/tschandel/recruitment-application.git for importing project<br />
